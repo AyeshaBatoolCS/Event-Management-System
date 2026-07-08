@@ -1,6 +1,6 @@
 # 🎉 Event Management System
 
-A SQL-based database project developed for the **Database Systems** course.
+A SQL-based Event Management System developed as a Database Systems course project using relational database concepts.
 
 
 
@@ -56,7 +56,21 @@ The Event Management System is a database project developed using SQL. It helps 
 
 ![ER Diagram](ER_Diagram_Event_Management_System.png)
 
+# 📸 Project Images
 
+## Database Structure (Object Explorer)
+
+This image shows the database structure and all tables created in SQL Server.
+
+![Database Structure](Project Images/Object%20Explorer%20(Tables).png)
+
+
+
+## Sample Query Output
+
+The following query retrieves event details along with organizer and venue information using SQL JOIN.
+
+![Query Output](Project Images/query.png)
 
 # 📄 Project Report
 
@@ -79,6 +93,6 @@ The complete project report is included in this repository.
 
 BS Computer Science
 
----
+
 
 ⭐ Thank you for visiting this repository.
