@@ -62,7 +62,7 @@ The Event Management System is a database project developed using SQL. It helps 
 
 This image shows the database structure and all tables created in SQL Server.
 
-![Database Structure](Project Images/Object%20Explorer%20(Tables).png)
+![Database Structure](Project%20Images/Object%20Explorer%20(Tables).png)
 
 
 
@@ -70,7 +70,7 @@ This image shows the database structure and all tables created in SQL Server.
 
 The following query retrieves event details along with organizer and venue information using SQL JOIN.
 
-![Query Output](Project Images/query.png)
+![Query Output](Project%20Images/query.png)
 
 # 📄 Project Report
 
